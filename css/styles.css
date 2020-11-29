@@ -7,3 +7,8 @@ header {
 #intro {
     text-align: center;
 }
+
+footer {
+    background-color: aqua;
+    text-align: center;
+}
